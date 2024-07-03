@@ -133,7 +133,7 @@
   
   .introduction {
 	background-color: rgb(254, 255, 254);
-	color: red;
+	color: black;
   }
   
   .hero {
@@ -153,7 +153,7 @@
   }
   
   .hero .content {
-	text-align: left;
+	text-align: center;
   }
   
   .hero .cta {
