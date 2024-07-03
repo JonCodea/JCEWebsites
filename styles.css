@@ -265,7 +265,15 @@
 	flex-direction: column;
 	align-items: center;
 	padding: 20px;
+    	opacity: 0;
+  	animation: fadeIn 0.8s ease-in forwards;
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
   }
+}
   
   .portfolio h1 {
 	text-align: center;
